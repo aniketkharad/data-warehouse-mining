@@ -1,0 +1,6 @@
+5
+Poor
+Fair
+Average
+Good
+Excellent
